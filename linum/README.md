@@ -1,6 +1,6 @@
 # Linum Framework
 ## Links
-[**Gamejolt page (download)**](https://gamejolt.com/games/linum-framework/513673)
+### [**Gamejolt page (download)**](https://gamejolt.com/games/linum-framework/513673)
 ***
 ### [**Wiki**](https://www.notion.so/linumframework/Homepage-fab60ba270c54d9a88aafce9314f8c0c)
 
