@@ -5,7 +5,7 @@
 
 ![last GitHub commit](https://img.shields.io/github/last-commit/halatnikov/linum-framework?label=last%20GitHub%20commit&logo=github)
 
-![release last updated](https://img.shields.io/github/release-date/halatnikov/linum-framework?label=last%20updated&logo=github)
+![release last updated](https://img.shields.io/github/release-date/halatnikov/linum-framework?label=last%20updated)
 ![release version](https://img.shields.io/github/v/release/halatnikov/linum-framework?&label=version)
 
 `Main: Windows | Legacy: Windows, Android, Web`
