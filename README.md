@@ -3,7 +3,10 @@
 # [Linum Framework](https://gamejolt.com/games/linum-framework/513673)
 [![](https://cdn.discordapp.com/attachments/406052265963683840/944883321597493298/linum_ayleen-seraph_2x.png)](https://gamejolt.com/games/linum-framework/513673)
 
-`Last updated: 25 Aug 2021 (0.1.2)`
+![last GitHub commit](https://img.shields.io/github/last-commit/halatnikov/linum-framework?label=last%20GitHub%20commit&logo=github)
+
+![release last updated](https://img.shields.io/github/release-date/halatnikov/linum-framework?label=last%20updated&logo=github)
+![release version](https://img.shields.io/github/v/release/halatnikov/linum-framework?&label=version)
 
 `Main: Windows | Legacy: Windows, Android, Web`
 
