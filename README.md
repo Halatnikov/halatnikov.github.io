@@ -13,6 +13,10 @@
 
 ### Source code on GitHub (soon)
 
+### Wiki (soon, hopefully)
+
+---
+
 # [Sonir Robo-Blast! From The Past](https://gamejolt.com/games/srb_fromthepast/658544)
 [![](https://media.discordapp.net/attachments/406052265963683840/944883384172302347/srbftp_dajumpjump.png)](https://gamejolt.com/games/srb_fromthepast/658544)
 
@@ -27,4 +31,5 @@
 ### Source code on GitHub (soon, but not really)
 
 ---
+
 ### [my other links](https://halatnikov.carrd.co/) ![](https://cdn.discordapp.com/attachments/406052265963683840/944886384047583232/holat_ayleen-seraph_2x.png)
