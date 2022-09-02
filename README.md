@@ -23,7 +23,7 @@
 # [Sonir Robo-Blast! From The Past](https://gamejolt.com/games/srb_fromthepast/658544)
 [![](https://media.discordapp.net/attachments/406052265963683840/944883384172302347/srbftp_dajumpjump.png)](https://gamejolt.com/games/srb_fromthepast/658544)
 
-`Last updated: 12 Dec 2021 (0.1.0)`
+`Last updated: 02 Sep 2022 (0.2.0)`
 
 `Windows, Android, Web`
 
@@ -31,7 +31,7 @@
 
 ### [Download and news on Game Jolt](https://gamejolt.com/games/srb_fromthepast/658544)
 
-### Source code on GitHub (soon, but not really)
+### [Source code on GitHub](https://github.com/Halatnikov/SRBftp)
 
 ---
 
