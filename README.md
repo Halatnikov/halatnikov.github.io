@@ -14,9 +14,9 @@
 
 ### [Download and news on Game Jolt](https://gamejolt.com/games/linum-framework/513673)
 
-### Source code on GitHub (soon)
+### [Source code on GitHub](https://github.com/Halatnikov/linum-framework)
 
-### Wiki (soon, hopefully)
+### [Wiki](https://halatikov.github.io/linum-framework)
 
 ---
 
