@@ -16,7 +16,7 @@
 
 ### [Source code on GitHub](https://github.com/Halatnikov/linum-framework)
 
-### [Wiki](https://halatikov.github.io/linum-framework)
+### [Wiki](https://halatnikov.github.io/linum-framework)
 
 ---
 
