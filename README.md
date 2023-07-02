@@ -1,6 +1,6 @@
 # Halatnikov's... thing ![](https://cdn.discordapp.com/attachments/406052265963683840/944886384047583232/holat_ayleen-seraph_2x.png)
 
-#### [GitHub](https://github.com/Halatnikov) &nbsp;&nbsp; [GameJolt](https://gamejolt.com/@Halatnikov) <br> [Twitter](https://twitter.com/holatnikov) &nbsp;&nbsp; [Youtube](https://www.youtube.com/channel/UCaJJx5p_9KyaKZj02N82nJw) &nbsp;&nbsp; [Steam](https://steamcommunity.com/id/halatnikov) <br> Discord: Halatnikov#2250
+### [GitHub](https://github.com/Halatnikov) &nbsp;&nbsp; [GameJolt](https://gamejolt.com/@Halatnikov) <br> [Twitter](https://twitter.com/holatnikov) &nbsp;&nbsp; [Youtube](https://www.youtube.com/channel/UCaJJx5p_9KyaKZj02N82nJw) &nbsp;&nbsp; [Steam](https://steamcommunity.com/id/halatnikov) <br> Discord: Halatnikov#2250
 
 ###### i mostly (try to) do stuff in Construct 2 and also learning LÖVE  <br> hello
 
@@ -62,4 +62,4 @@ aka *Super Freaks Whenever*, aka *Scruffy goes to the store to buy bread*
 
 [![](https://media.discordapp.net/attachments/406052265963683840/1124857291729022996/happybirthdayhalat_ayleen-seraph_small.png)](https://twitter.com/Ayleen_Seraph/status/1208020827469430784)
 
-[:eyes:](https://www.youtube.com/watch?v=FBSe_3qtgkc)
+[?](https://www.youtube.com/watch?v=FBSe_3qtgkc)
