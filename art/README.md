@@ -57,7 +57,6 @@ text
 
 [![19.12.2019](https://media.discordapp.net/attachments/1125344824401342529/1125422966696575056/image.png)](https://twitter.com/Ayleen_Seraph/status/1208020827469430784)
 [![31.12.2019](https://media.discordapp.net/attachments/1125344824401342529/1125426125355614268/image.png)](https://twitter.com/Ayleen_Seraph/status/1211849334339383297)
-[![17.10.2019](https://cdn.discordapp.com/attachments/1125344824401342529/1125437710308475052/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125437709947773058/halat_and_cat-.png)
 [![25.9.2019](https://cdn.discordapp.com/attachments/1125344824401342529/1125437710308475052/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125437709947773058/halat_and_cat-.png)
 [![30.8.2019](https://cdn.discordapp.com/attachments/1125344824401342529/1125438232113446952/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125438231706615838/halat_animu_eyes.png)
 [![14.6.2019](https://cdn.discordapp.com/attachments/1125344824401342529/1125438651292197047/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125438650939883590/halat_1106.png)
