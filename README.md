@@ -1,13 +1,14 @@
-# Halatnikov's... thing ![](https://cdn.discordapp.com/attachments/406052265963683840/944886384047583232/holat_ayleen-seraph_2x.png)
+# Halatnikov's... thing ![icon](https://cdn.discordapp.com/attachments/406052265963683840/944886384047583232/holat_ayleen-seraph_2x.png)
 
-### [GitHub](https://github.com/Halatnikov) &nbsp;&nbsp; [GameJolt](https://gamejolt.com/@Halatnikov) <br> [Twitter](https://twitter.com/holatnikov) &nbsp;&nbsp; [Youtube](https://www.youtube.com/channel/UCaJJx5p_9KyaKZj02N82nJw) &nbsp;&nbsp; [Steam](https://steamcommunity.com/id/halatnikov) <br> Discord: Halatnikov#2250
+### [GitHub](https://github.com/Halatnikov) &nbsp;&nbsp; [GameJolt](https://gamejolt.com/@Halatnikov) <br> [Twitter](https://twitter.com/holatnikov) &nbsp;&nbsp; [Youtube](https://www.youtube.com/channel/UCaJJx5p_9KyaKZj02N82nJw) &nbsp;&nbsp; [Steam](https://steamcommunity.com/id/halatnikov) <br> Discord: Halatnikov#2250 <br> ![website updated](https://img.shields.io/github/last-commit/halatnikov/halatnikov.github.io?label=updated)
 
-###### i mostly (try to) do stuff in Construct 2 and also learning LÖVE  <br> hello
+###### i mostly (try to) do stuff in Construct 2 and also learning LÖVE <br> hello
 
 ---
 
 # [Sonic Robo-Blast! From The Past](https://gamejolt.com/games/srb_fromthepast/658544)
-[![](https://media.discordapp.net/attachments/406052265963683840/944883384172302347/srbftp_dajumpjump.png)](https://gamejolt.com/games/srb_fromthepast/658544)
+
+[![logo](https://media.discordapp.net/attachments/406052265963683840/944883384172302347/srbftp_dajumpjump.png)](https://gamejolt.com/games/srb_fromthepast/658544)
 
 ![last GitHub commit](https://img.shields.io/github/last-commit/halatnikov/SRBftp?label=last%20GitHub%20commit&logo=github)
 
@@ -26,7 +27,7 @@
 
 # [Linum Framework](https://gamejolt.com/games/linum-framework/513673)
 
-[![](https://cdn.discordapp.com/attachments/406052265963683840/944883321597493298/linum_ayleen-seraph_2x.png)](https://gamejolt.com/games/linum-framework/513673)
+[![logo](https://cdn.discordapp.com/attachments/406052265963683840/944883321597493298/linum_ayleen-seraph_2x.png)](https://gamejolt.com/games/linum-framework/513673)
 
 ![last GitHub commit](https://img.shields.io/github/last-commit/halatnikov/linum-framework?label=last%20GitHub%20commit&logo=github)
 
@@ -49,7 +50,7 @@
 
 aka *Super Freaks Whenever*, aka *Scruffy goes to the store to buy bread*
 
-[![](https://media.discordapp.net/attachments/406052265963683840/1124851544613986437/scruffy_ayleen-seraph_small.png)](https://twitter.com/Ayleen_Seraph)
+[![logo](https://media.discordapp.net/attachments/406052265963683840/1124851544613986437/scruffy_ayleen-seraph_small.png)](https://twitter.com/Ayleen_Seraph)
 
 ![last GitHub commit](https://img.shields.io/github/last-commit/halatnikov/Super-Freaks-1-Fangame?label=last%20GitHub%20commit&logo=github)
 
@@ -58,8 +59,10 @@ aka *Super Freaks Whenever*, aka *Scruffy goes to the store to buy bread*
 
 ### [Source code on GitHub](https://github.com/Halatnikov/Super-Freaks-1-Fangame)
 
+### [Receive a psychic message!](https://nohbodee.neocities.org)
+
 ---
 
-[![](https://media.discordapp.net/attachments/406052265963683840/1124857291729022996/happybirthdayhalat_ayleen-seraph_small.png)](https://twitter.com/Ayleen_Seraph/status/1208020827469430784)
+[![halat art](https://media.discordapp.net/attachments/406052265963683840/1124857291729022996/happybirthdayhalat_ayleen-seraph_small.png)](https://twitter.com/Ayleen_Seraph/status/1208020827469430784)
 
 [?](https://www.youtube.com/watch?v=FBSe_3qtgkc)
