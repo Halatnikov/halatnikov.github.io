@@ -1,8 +1,4 @@
-# [<<< Return to main page](https://halatnikov.github.com) ![icon](https://cdn.discordapp.com/attachments/406052265963683840/944886384047583232/holat_ayleen-seraph_2x.png)
-
----
-
-# Header
+# Header ![icon](https://cdn.discordapp.com/attachments/406052265963683840/944886384047583232/holat_ayleen-seraph_2x.png)
 
 text
 
