@@ -1,8 +1,8 @@
 # Halatnikov's... thing ![icon](https://cdn.discordapp.com/attachments/406052265963683840/944886384047583232/holat_ayleen-seraph_2x.png)
 
-### [GitHub](https://github.com/Halatnikov) &nbsp;&nbsp; [GameJolt](https://gamejolt.com/@Halatnikov) <br> [Twitter](https://twitter.com/holatnikov) &nbsp;&nbsp; [Youtube](https://www.youtube.com/channel/UCaJJx5p_9KyaKZj02N82nJw) &nbsp;&nbsp; [Steam](https://steamcommunity.com/id/halatnikov) <br> Discord: Halatnikov#2250 <br> ![website updated](https://img.shields.io/github/last-commit/halatnikov/halatnikov.github.io?label=updated)
+### [GitHub](https://github.com/Halatnikov) &nbsp;&nbsp; [GameJolt](https://gamejolt.com/@Halatnikov) <br> [Twitter](https://twitter.com/holatnikov) &nbsp;&nbsp; [Youtube](https://www.youtube.com/channel/UCaJJx5p_9KyaKZj02N82nJw) &nbsp;&nbsp; [Steam](https://steamcommunity.com/id/halatnikov) <br> Discord: Halatnikov#2250
 
-###### i mostly (try to) do stuff in Construct 2 and also learning LÖVE <br> hello
+###### ![website updated](https://img.shields.io/github/last-commit/halatnikov/halatnikov.github.io?label=updated) <br> i mostly (try to) do stuff in Construct 2 and also learning LÖVE <br> hello
 
 ---
 
