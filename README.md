@@ -63,6 +63,6 @@ aka *Super Freaks Whenever*, aka *Scruffy goes to the store to buy bread*
 
 ---
 
-[![halat art](https://media.discordapp.net/attachments/406052265963683840/1124857291729022996/happybirthdayhalat_ayleen-seraph_small.png)](https://twitter.com/Ayleen_Seraph/status/1208020827469430784)
+[![halat art](https://media.discordapp.net/attachments/406052265963683840/1124857291729022996/happybirthdayhalat_ayleen-seraph_small.png)](https://halatnikov.github.io/art)
 
 [?](https://www.youtube.com/watch?v=FBSe_3qtgkc)
