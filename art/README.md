@@ -1,6 +1,8 @@
-# Header ![icon](https://cdn.discordapp.com/attachments/406052265963683840/944886384047583232/holat_ayleen-seraph_2x.png)
+# Halat art ![icon](https://cdn.discordapp.com/attachments/406052265963683840/944886384047583232/holat_ayleen-seraph_2x.png)
 
-text
+Art featuring my OC, or otherwise related to what i do
+
+### Unless specified, *everything* here is done by [Ayleen_Seraph](https://twitter.com/Ayleen_Seraph/)
 
 ---
 
@@ -32,7 +34,7 @@ text
 [![19.12.2020](https://media.discordapp.net/attachments/1125344824401342529/1125422066871582720/image.png)](https://twitter.com/Ayleen_Seraph/status/1340311049141161987?s=20)
 [![1.12.2020](https://media.discordapp.net/attachments/1125344824401342529/1125425352412495872/image.png)](https://twitter.com/Ayleen_Seraph/status/1333465598135775235)
 [![5.11.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1125425729811783720/image.png)](https://twitter.com/Ayleen_Seraph/status/1324122622641266695)
-[![14.10.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1125873313357500416/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125873313055518820/unknown.png)
+[![1.9.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1126478122389356615/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126478121969913896/halat_marionette_0109-.png)
 [![29.8.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1125429407989907528/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125429407524335726/halatt_2808.png)
 [![17.8.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1125430129808646196/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125430129380835478/Screenshot_2020-08-17-07-40-10-118_com.png)
 [![21.6.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1125430620806467604/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125430620244414586/unknown.png)
@@ -40,6 +42,8 @@ text
 [![28.5.2020 2](https://media.discordapp.net/attachments/1125344824401342529/1125426631465521313/image.png)](https://twitter.com/Ayleen_Seraph/status/1265966035548733440)
 [![22.4.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1125431207329538048/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125431206889148527/halat_ayleen_2204.png)
 [![21.4.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1125431794985078804/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125431794574045314/unknown1.png)
+[![](https://cdn.discordapp.com/attachments/1125344824401342529/1126144038551167038/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126144038358220912/unknown-3.png)
+[![9.4.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1126144589267480659/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126144589024215070/2.png)
 [![8.4.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1125432584726397099/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125432584265019392/halat_uwu_0704_5.png)
 [![12.3.2020](https://media.discordapp.net/attachments/1125344824401342529/1125427182265712670/image.png)](https://twitter.com/Ayleen_Seraph/status/1237794615777996800)
 [![11.3.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1125433894834012160/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125433894406205571/h1-.gif)
@@ -56,6 +60,12 @@ text
 [![31.12.2019](https://media.discordapp.net/attachments/1125344824401342529/1125426125355614268/image.png)](https://twitter.com/Ayleen_Seraph/status/1211849334339383297)
 [![25.9.2019](https://cdn.discordapp.com/attachments/1125344824401342529/1125437710308475052/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125437709947773058/halat_and_cat-.png)
 [![30.8.2019](https://cdn.discordapp.com/attachments/1125344824401342529/1125438232113446952/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125438231706615838/halat_animu_eyes.png)
+[![22.8.2019](https://cdn.discordapp.com/attachments/1125344824401342529/1126487426530037760/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126487426274164786/image.png)
+[![15.8.2019 2](https://cdn.discordapp.com/attachments/1125344824401342529/1126481749296300072/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126481748948160543/image.png)
+[![15.8.2019 1](https://cdn.discordapp.com/attachments/1125344824401342529/1126481869815431188/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126481869391790090/halat_ref.png)
+[![8.8.2019](https://cdn.discordapp.com/attachments/1125344824401342529/1126478419815829524/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126478419492872383/halat_and_clover_080819.png)
+[![22.7.2019](https://cdn.discordapp.com/attachments/1125344824401342529/1126477365422333982/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126477364805779487/IMG_20190721_235701.png)
+[![3.7.2019](https://cdn.discordapp.com/attachments/1125344824401342529/1126477009825050787/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126477009539846194/unknown.png)
 [![14.6.2019](https://cdn.discordapp.com/attachments/1125344824401342529/1125438651292197047/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125438650939883590/halat_1106.png)
 [![4.5.2019](https://media.discordapp.net/attachments/1125344824401342529/1125427182626427020/image.png)](https://twitter.com/Ayleen_Seraph/status/1237794615777996800)
 [![20.1.2019](https://cdn.discordapp.com/attachments/1125344824401342529/1125440279755898920/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125440279185477712/green_greens_2001_--2.png)
@@ -68,6 +78,7 @@ text
 
 [![19.12.2018](https://cdn.discordapp.com/attachments/1125344824401342529/1125892656153767996/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125892655423967314/halatolor_and_marxayleen19122018.png)
 [![1.12.2018](https://cdn.discordapp.com/attachments/1125344824401342529/1125892211100360835/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125892210722881646/t-shirts.png)
+[![28.11.2018](https://cdn.discordapp.com/attachments/1125344824401342529/1125873313357500416/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125873313055518820/unknown.png)
 [![18.11.2018](https://cdn.discordapp.com/attachments/1125344824401342529/1125891568038064308/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125891567803191416/halat_chao_sprite.png)
 [![7.11.2018](https://cdn.discordapp.com/attachments/1125344824401342529/1125891665958293544/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125891665698242624/halatolor_sprite.png)
 [![5.11.2018](https://cdn.discordapp.com/attachments/1125344824401342529/1125890411748139068/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125890411244818512/hugs_0411_2018.png)
@@ -83,6 +94,7 @@ text
 [![15](https://cdn.discordapp.com/attachments/1125344824401342529/1125886150507245619/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125886150062645278/green3107_2018.png)
 [![14](https://cdn.discordapp.com/attachments/1125344824401342529/1125885886266097735/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125885885947322378/halatik_2018.png)
 [![13](https://cdn.discordapp.com/attachments/1125344824401342529/1125885690916384829/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125885690408869969/sleep_kirby_holat_2018.png)
+[![](https://cdn.discordapp.com/attachments/1125344824401342529/1126143602746208367/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126143602486149281/unknown.png)
 [![12](https://cdn.discordapp.com/attachments/1125344824401342529/1125885357288870009/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125885356949123162/holat_eevee-2018.png)
 [![11](https://cdn.discordapp.com/attachments/1125344824401342529/1125885112257622176/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125885111825604688/halat_kirby_mirror.png)
 [![10](https://cdn.discordapp.com/attachments/1125344824401342529/1125884823404281926/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125884823022608384/halat_and_kirby_0806_2018.png)
@@ -91,6 +103,7 @@ text
 [![7](https://cdn.discordapp.com/attachments/1125344824401342529/1125883970924585051/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125883970635173889/cute_halat4.png)
 [![6](https://cdn.discordapp.com/attachments/1125344824401342529/1125878156935573684/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125878156692299816/sakura_halat.png)
 [![5](https://cdn.discordapp.com/attachments/1125344824401342529/1125877889502552126/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125877889196376165/tumblrboi_copy.png)
+[![](https://cdn.discordapp.com/attachments/1125344824401342529/1126477455180451850/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126477454962327583/tumblr_holat.png)
 [![4](https://cdn.discordapp.com/attachments/1125344824401342529/1125877524128337952/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125877523859910756/unknown2018.png)
 [![3](https://cdn.discordapp.com/attachments/1125344824401342529/1125877177292955678/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125877177032900718/unknown-25.png)
 [![22.3.2018 2](https://cdn.discordapp.com/attachments/1125344824401342529/1125896101850001569/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125896101501866004/fastholat.gif)
@@ -107,4 +120,18 @@ text
 
 # Miscellaneous
 
+[![art trade 2](https://cdn.discordapp.com/attachments/1125344824401342529/1126471541018873917/image.png)](https://twitter.com/drakenstel/status/1460875063918358530)
+[![art trade 1](https://cdn.discordapp.com/attachments/1125344824401342529/1126471540737843331/image.png)](https://twitter.com/oh_gh0st/status/1434017523310149636)
+<br> Art trades that [Ayleen_Seraph](https://twitter.com/Ayleen_Seraph/) partaken in, that happen to have my OC (click for original tweets)
+
 ---
+
+# Things i did myself for once
+
+[![3](https://cdn.discordapp.com/attachments/1125344824401342529/1126476021982568478/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126476021781254234/image.png)
+[![2](https://cdn.discordapp.com/attachments/1125344824401342529/1126474544891297812/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126474544698376222/image.png)
+[![1](https://cdn.discordapp.com/attachments/1125344824401342529/1126475136388837436/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126475136107806883/image.png)
+
+---
+
+the
