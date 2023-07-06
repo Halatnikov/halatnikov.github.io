@@ -1,6 +1,7 @@
 # Halat art ![icon](https://cdn.discordapp.com/attachments/406052265963683840/944886384047583232/holat_ayleen-seraph_2x.png)
 
 Art featuring my OC, or otherwise related to what i do
+<br> You can click on everything to view the full versions
 
 ### Unless specified, *everything* here is done by [Ayleen_Seraph](https://twitter.com/Ayleen_Seraph/)
 
