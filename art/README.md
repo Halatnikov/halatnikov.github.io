@@ -15,6 +15,7 @@ Art featuring my OC, or otherwise related to what i do
 
 [![19.12.2022](https://cdn.discordapp.com/attachments/1125344824401342529/1125396809926332516/image.png)](https://twitter.com/Ayleen_Seraph/status/1604856173630570501?s=20)
 [![5.10.2022](https://cdn.discordapp.com/attachments/1125344824401342529/1125397766730952784/image.png)](https://twitter.com/Ayleen_Seraph/status/1577683561632628736?s=20)
+[![](https://cdn.discordapp.com/attachments/1125344824401342529/1126883669710229615/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126883668703580290/image.png)
 [![10.9.2022](https://cdn.discordapp.com/attachments/1125344824401342529/1125398638311522424/image.png)](https://twitter.com/Ayleen_Seraph/status/1568446191842516993?s=20)
 [![2.9.2022](https://cdn.discordapp.com/attachments/1125344824401342529/1125428434491953172/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125428434064125962/wake_up_halat_.png)
 [![13.5.2022](https://media.discordapp.net/attachments/1125344824401342529/1125401696307253368/image.png)](https://twitter.com/Ayleen_Seraph/status/1524797124482940929?s=20)
@@ -27,6 +28,7 @@ Art featuring my OC, or otherwise related to what i do
 [![19.12.2021](https://media.discordapp.net/attachments/1125344824401342529/1125404571737538600/image.png)](https://twitter.com/Ayleen_Seraph/status/1472629474021806089?s=20)
 [![linum logo](https://media.discordapp.net/attachments/1125344824401342529/1125423814239584256/linum128.png)](https://media.discordapp.net/attachments/1125344824401342529/1125423814239584256/linum128.png)
 [![30.4.2021](https://media.discordapp.net/attachments/1125344824401342529/1125419052530139217/image.png)](https://twitter.com/Ayleen_Seraph/status/1387897757403385856)
+[![.3.2021](https://cdn.discordapp.com/attachments/1125344824401342529/1126887825980260464/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126887825716027513/unknown.png)
 
 ---
 
@@ -125,12 +127,15 @@ Art featuring my OC, or otherwise related to what i do
 [![art trade 1](https://cdn.discordapp.com/attachments/1125344824401342529/1126471540737843331/image.png)](https://twitter.com/oh_gh0st/status/1434017523310149636)
 <br> Art trades that [Ayleen_Seraph](https://twitter.com/Ayleen_Seraph/) partaken in, that happen to have my OC (click for original tweets)
 
+[![](https://cdn.discordapp.com/attachments/1125344824401342529/1126884854370414644/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126884854039052288/image.png)
+<br> by stas's ports
+
 ---
 
 # Things i did myself for once
 
 [![3](https://cdn.discordapp.com/attachments/1125344824401342529/1126476021982568478/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126476021781254234/image.png)
-[![2](https://cdn.discordapp.com/attachments/1125344824401342529/1126474544891297812/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126474544698376222/image.png)
+[![2](https://cdn.discordapp.com/attachments/1125344824401342529/1126889581158092830/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126889580935786637/685ce0506f7584eb.png)
 [![1](https://cdn.discordapp.com/attachments/1125344824401342529/1126475136388837436/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126475136107806883/image.png)
 
 ---
