@@ -55,7 +55,8 @@ Art featuring my OC, or otherwise related to what i do
 [![12.3.2020](https://media.discordapp.net/attachments/1125344824401342529/1125427182265712670/image.png)](https://twitter.com/Ayleen_Seraph/status/1237794615777996800)
 [![11.3.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1125433894834012160/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125433894406205571/h1-.gif)
 [![27.2.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1125435569305038978/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125435568914976848/ayleen_halat_sketch_2702_2020.png)
-[![20.2.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1125892986899812512/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125892986715246762/halatdab.png)
+[![20.2.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1125892986899812512/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1128748852439154808/unknown.png)
+[![12.2.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1128749048929726544/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1128749048728404121/unknown.png)
 [![16.2.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1125435926613594122/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125435926206742598/unknown2.png)
 [![15.2.2020](https://cdn.discordapp.com/attachments/1125344824401342529/1125436475438276708/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1125436475153055905/unknown_7_2020.png)
 
