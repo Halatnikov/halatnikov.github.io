@@ -9,6 +9,9 @@ Art featuring my OC, or otherwise related to what i do
 
 # 2023
 
+[![1.12.2023](https://cdn.discordapp.com/attachments/1125344824401342529/1184550045283008630/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1184550045056512010/christmas_orig.png)
+[![17.9.2023](https://cdn.discordapp.com/attachments/1125344824401342529/1184549792886562896/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1184549792672657428/minihalat_1709.png)
+
 ---
 
 # 2022
@@ -134,12 +137,17 @@ Art featuring my OC, or otherwise related to what i do
 <br> Art trades that [Ayleen_Seraph](https://twitter.com/Ayleen_Seraph/) partaken in, that happen to have my OC (click for original tweets)
 
 [![](https://cdn.discordapp.com/attachments/1125344824401342529/1126884854370414644/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126884854039052288/image.png)
-<br> by stas's ports
+<br> by [stas's ports](https://gamejolt.com/@stas_ports)
+
+[![](https://cdn.discordapp.com/attachments/1125344824401342529/1184550963835572294/AVerySpecialThingForAVeryCoolPerson.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1184550963835572294/AVerySpecialThingForAVeryCoolPerson.png)
+<br> by [EngineerKappa](https://engineerkappa.neocities.org/)
 
 ---
 
 # Things i did myself for once
 
+[![blockbench models 2](https://cdn.discordapp.com/attachments/1125344824401342529/1184549711156359219/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1184549710871154789/image.png)
+[![blockbench models 1](https://cdn.discordapp.com/attachments/1125344824401342529/1184547308872937583/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1184547308638044360/image.png)
 [![9.7.2023](https://cdn.discordapp.com/attachments/1125344824401342529/1128361266008834059/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1128361265702641846/image.png)
 [![3](https://cdn.discordapp.com/attachments/1125344824401342529/1126476021982568478/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126476021781254234/image.png)
 [![2](https://cdn.discordapp.com/attachments/1125344824401342529/1126889581158092830/image.png)](https://cdn.discordapp.com/attachments/1125344824401342529/1126889580935786637/685ce0506f7584eb.png)
