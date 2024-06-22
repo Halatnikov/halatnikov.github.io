@@ -6,16 +6,16 @@
 
 ![website updated](https://img.shields.io/github/last-commit/halatnikov/halatnikov.github.io?label=updated)
 
-i mostly <sup>(try to)</sup> do bideo game in Construct 2 and also learning [LÖVE](https://love2d.org/)
+<br>i mostly <sup>(try to)</sup> do bideo game in Construct 2 and also learning [LÖVE](https://love2d.org/)
 <br><sub>hello</sub>
 
 ---
 
 <details>
 
-<summary>Stream of concioussness</summary>
+<summary>## Stream of concioussness</summary>
 
-<sup>(probably infrequent)</sup>
+<sup>(probably infrequent)</sup><br>
 
 `2024-06-22` haven't repaired the gone images yet, but slightly reworded the whole site
 
@@ -68,7 +68,6 @@ aka *Scruffy goes to the store to buy bread*, aka *Super Freaks Whenever*
 <!-- > Art by [Ayleen_Seraph](https://twitter.com/Ayleen_Seraph) -->
 
 |**[Source code on GitHub](https://github.com/Halatnikov/Super-Freaks-1-Fangame)**|
-|---|
 
 ---
 
@@ -79,7 +78,6 @@ aka *Scruffy goes to the store to buy bread*, aka *Super Freaks Whenever*
 > Heavily WIP [LÖVE](https://love2d.org/) framework for personal use, just me throwing things at a wall
 
 |**[Source code on GitHub](https://github.com/Halatnikov/onee)**|
-|---|
 
 ---
 
@@ -95,7 +93,7 @@ aka *Scruffy goes to the store to buy bread*, aka *Super Freaks Whenever*
 `Main: Windows`
 `Legacy: Windows, Android, Web`
 
-> Sonic framework with *included level editor and online multiplayer*
+> Sonic framework for Construct 2 with *included level editor and online multiplayer*
 
 |**[Download and news on Game Jolt](https://gamejolt.com/games/linum-framework/513673)**|
 |---|
