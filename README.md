@@ -16,8 +16,7 @@ i mostly <sup>(try to)</sup> do bideo game in Construct 2 and also learning [LÖ
 
 <sup>(probably infrequent)</sup><br>
 
-
-<p>2024-06-22</p> haven't repaired the gone images yet, but slightly reworded the whole site
+[2024-06-22] haven't repaired the gone images yet, but slightly reworded the whole site
 
 </details>
 
