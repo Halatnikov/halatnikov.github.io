@@ -7,8 +7,7 @@
 ![website updated](https://img.shields.io/github/last-commit/halatnikov/halatnikov.github.io?label=updated)
 
 i mostly <sup>(try to)</sup> do bideo game in Construct 2 and also learning [LÖVE](https://love2d.org/)
-
-<sub>hello</sub>
+<br><sub>hello</sub>
 
 ---
 
@@ -37,9 +36,9 @@ i mostly <sup>(try to)</sup> do bideo game in Construct 2 and also learning [LÖ
 
 > A remake of *two Sonic fangames from 1998* that are important to me with quality of life and extras
 
-### [Download and news on Game Jolt](https://gamejolt.com/games/srb_fromthepast/658544)
-
-### [Source code on GitHub](https://github.com/Halatnikov/SRBftp)
+|**[Download and news on Game Jolt](https://gamejolt.com/games/srb_fromthepast/658544)**|
+|---|
+|**[Source code on GitHub](https://github.com/Halatnikov/SRBftp)**|
 
 ---
 
@@ -68,7 +67,8 @@ aka *Scruffy goes to the store to buy bread*, aka *Super Freaks Whenever*
 > Check out [Super Freaks 1 Ultimate Edition](https://superfreaks.neocities.org/), *which is a finished free game*
 <!-- > Art by [Ayleen_Seraph](https://twitter.com/Ayleen_Seraph) -->
 
-### [Source code on GitHub](https://github.com/Halatnikov/Super-Freaks-1-Fangame)
+|**[Source code on GitHub](https://github.com/Halatnikov/Super-Freaks-1-Fangame)**|
+|---|
 
 ---
 
@@ -78,7 +78,8 @@ aka *Scruffy goes to the store to buy bread*, aka *Super Freaks Whenever*
 
 > Heavily WIP [LÖVE](https://love2d.org/) framework for personal use, just me throwing things at a wall
 
-### [Source code on GitHub](https://github.com/Halatnikov/onee)
+|**[Source code on GitHub](https://github.com/Halatnikov/onee)**|
+|---|
 
 ---
 
@@ -96,11 +97,10 @@ aka *Scruffy goes to the store to buy bread*, aka *Super Freaks Whenever*
 
 > Sonic framework with *included level editor and online multiplayer*
 
-### [Download and news on Game Jolt](https://gamejolt.com/games/linum-framework/513673)
-
-### [Source code on GitHub](https://github.com/Halatnikov/linum-framework)
-
-### [Documentation](https://halatnikov.github.io/linum-framework)
+|**[Download and news on Game Jolt](https://gamejolt.com/games/linum-framework/513673)**|
+|---|
+|**[Source code on GitHub](https://github.com/Halatnikov/linum-framework)**|
+|**[Documentation](https://halatnikov.github.io/linum-framework)**|
 
 ---
 
