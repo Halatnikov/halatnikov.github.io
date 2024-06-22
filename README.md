@@ -4,7 +4,7 @@
 <br>**[Twitter](https://twitter.com/holatnikov)** &nbsp;&nbsp; **[Youtube](https://www.youtube.com/channel/UCaJJx5p_9KyaKZj02N82nJw)** &nbsp;&nbsp; **[Steam](https://steamcommunity.com/id/halatnikov)**
 <br>**Discord**: `halatnikov`
 
-![website updated](https://img.shields.io/github/last-commit/halatnikov/halatnikov.github.io?label=updated)
+[![website updated](https://img.shields.io/github/last-commit/halatnikov/halatnikov.github.io?label=updated)](https://github.com/Halatnikov/halatnikov.github.io)
 
 i mostly <sup>(try to)</sup> do bideo game in Construct 2 and also learning [LÖVE](https://love2d.org/)
 <br><sub>hello</sub>
@@ -16,7 +16,7 @@ i mostly <sup>(try to)</sup> do bideo game in Construct 2 and also learning [LÖ
 
 <sup>(probably infrequent)</sup><br>
 
-[2024-06-22] haven't repaired the gone images yet, but slightly reworded the whole site
+	[2024-06-22] haven't repaired the gone images yet, but slightly reworded the whole site
 
 </details>
 
