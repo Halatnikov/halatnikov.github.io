@@ -13,11 +13,11 @@ i mostly <sup>(try to)</sup> do bideo game in Construct 2 and also learning [LÖ
 
 <details>
 
-<summary># Stream of concioussness</summary>
+# <summary>Stream of concioussness</summary>
 
-<sup>(probably infrequent)</sup><br>&nbsp;
+<sup>(probably infrequent)</sup>&nbsp;
 
-&nbsp;<br>`2024-06-22` haven't repaired the gone images yet, but slightly reworded the whole site
+&nbsp;`2024-06-22` haven't repaired the gone images yet, but slightly reworded the whole site
 
 </details>
 
