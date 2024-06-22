@@ -6,18 +6,18 @@
 
 ![website updated](https://img.shields.io/github/last-commit/halatnikov/halatnikov.github.io?label=updated)
 
-<br>i mostly <sup>(try to)</sup> do bideo game in Construct 2 and also learning [LÖVE](https://love2d.org/)
+i mostly <sup>(try to)</sup> do bideo game in Construct 2 and also learning [LÖVE](https://love2d.org/)
 <br><sub>hello</sub>
 
 ---
 
 <details>
 
-<summary>## Stream of concioussness</summary>
+<summary># Stream of concioussness</summary>
 
-<sup>(probably infrequent)</sup><br>
+<sup>(probably infrequent)</sup><br>&nbsp;
 
-`2024-06-22` haven't repaired the gone images yet, but slightly reworded the whole site
+&nbsp;<br>`2024-06-22` haven't repaired the gone images yet, but slightly reworded the whole site
 
 </details>
 
@@ -98,7 +98,7 @@ aka *Scruffy goes to the store to buy bread*, aka *Super Freaks Whenever*
 |**[Download and news on Game Jolt](https://gamejolt.com/games/linum-framework/513673)**|
 |---|
 |**[Source code on GitHub](https://github.com/Halatnikov/linum-framework)**|
-|**[Documentation](https://halatnikov.github.io/linum-framework)**|
+|**[Documentation](https://halatnikov.github.io/linum-framework)** (not really)|
 
 ---
 
