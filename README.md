@@ -6,18 +6,56 @@
 
 [![website updated](https://img.shields.io/github/last-commit/halatnikov/halatnikov.github.io?label=updated)](https://github.com/Halatnikov/halatnikov.github.io)
 
-i mostly <sup>(try to)</sup> do bideo game in Construct 2 and also learning [LÖVE](https://love2d.org/)
+`he/they` ![my current time](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FNovosibirsk&query=%24.time&label=my%20current%20time&color=40AF60)
+<br>i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construct.net/en/construct-2/download) and also learning [LÖVE](https://love2d.org/)
 <br><sub>hello</sub>
 
 ---
 
-<details>
-<summary><b>Stream of concioussness</b></summary>
+<details><summary><h2>People and things i greatly approve</h2></summary>
+	<h4><a href="https://twitter.com/Ayleen_Seraph">Ayleen_Seraph</a></h4>
+	<h4><a href="https://srb2.org">Sonic Robo Blast 2</a></h4>
+	<h4><a href="https://superfreaks.neocities.org">Super Freaks</a> series</h4>
+	<details><summary><h4>The Freak Mafia</h4></summary>
+		<h4><a href="https://engineerkappa.itch.io">BUDD and Crystal Heart</a></h4>
+		<h4><a href="https://arrietty.itch.io">Prototype N</a></h4>
+		(green hair gang!!!!)<br>
+		<h4><a href="https://superfreaksdev.itch.io/freakjam-1">Freakjam 1</a></h4>
+		(i also worked on this!!!!)<br>
+		<h4><a href="https://philraco.itch.io/mka-round-the-mind-beta">Round the Mind</a></h4>
+		<h4><a href="https://almyriganhero.itch.io">Frebbventure and Erma</a></h4>
+		<h4><a href="https://shootem.biz">Mr. Shootem Breaks Out</a></h4>
+		<h4><a href="https://null3d.itch.io">The Hit Game Tacti-Cat</a></h4>
+		<h4><a href="https://pvicvg.com">Ednaldo Pereira: Mobile and Ednaldo Pereira: Mescladasso DX</a></h4>
+		<h4><a href="https://gamejolt.com/@Miles_Games/games">Slay-Bells and Bub's Big Blowout</a></h4>
+		<h4><a href="https://sonicfangameshq.com/forums/showcase/turbo-leaper-demo-2-for-christmas-sage.1994">Turbo Leaper</a></h4>
+		<h4><a href="https://store.steampowered.com/app/1594060/Victory_Heat_Rally">Victory Heat Rally</a></h4>
+		<h4><a href="https://doricdream.itch.io/dungeon-gals">Dungeon Gals</a></h4>
+		<h4><a href="https://thatlefthandman.itch.io">Black Cat Blitz and The Pac-Man Brothers</a></h4>
+		<h4><a href="https://sharb.itch.io/bun-n-gun">Bun n' Gun</a></h4>
+		<h4><a href="https://lavie-azure.itch.io/code-bunny">Code Bunny</a></h4>
+		<h4><a href="https://yew-bowman.itch.io">Yew Bowman</a></h4>
+		<h4><a href="https://store.steampowered.com/app/2271120/Danger_Cliff">Danger Cliff</a></h4>
+		<h4><a href="https://x.com/LuaComputaSowwy">Outer Outage</a></h4>
+		<h4><a href="https://store.steampowered.com/search/?term=TECHPACK">TECHPACK</a></h4>
+	</details>
+	<hr>
+	<h4><a href="https://opensurge2d.org">Surge The Rabbit (Open Surge)</a></h4>
+	<h4><a href="https://github.com/mmatyas/supermariowar">Super Mario War</a></h4>
+	<h4><a href="https://github.com/efroemling/ballistica">BombSquad</a></h4>
+	<h4><a href="https://gamejolt.com/games/aurascope/501907">Aurascope</a></h4>
+	<h4><a href="https://trinitroid.itch.io/mekanikko">Mekanikko</a></h4>
+	<h4><a href="https://github.com/nihil92/Core-Framework">Core Framework</a></h4>
+	<h4><a href="http://gdtr.net">Gravity Defied Classic</a></h4>
+	<hr>
+	<h4><a href="https://github.com/Halatnikov?tab=stars">My GitHub stars</a></h4>
+</details>
 
-<sup>(probably infrequent)</sup><br>
-
-	[2024-06-22] haven't repaired the gone images yet, but slightly reworded the whole site
-
+<details><summary><h2>Stream of concioussness</h2></summary>
+	<sup>(probably infrequent)</sup><br>
+	
+	<code>2024-06-23</code> the <br>
+	<code>2024-06-22</code> haven't repaired the gone images yet, but slightly reworded the whole site <br>
 </details>
 
 ---
@@ -31,7 +69,7 @@ i mostly <sup>(try to)</sup> do bideo game in Construct 2 and also learning [LÖ
 ![release last updated](https://img.shields.io/github/release-date/halatnikov/SRBftp?label=last%20updated)
 ![release version](https://img.shields.io/github/v/release/halatnikov/SRBftp?&label=version)
 
-`Windows, Android `<sup>(0.2.1)</sup>`, Web`
+`Windows, Android`<sup>(0.2.1)</sup>`, Web`
 
 > A remake of *two Sonic fangames from 1998* that are important to me with quality of life and extras
 
@@ -49,24 +87,25 @@ i mostly <sup>(try to)</sup> do bideo game in Construct 2 and also learning [LÖ
 
 ---
 
-# [Receive a psychic message!](https://nohbodee.neocities.org)
-
----
-
 # [Super Freaks 1 Fangame](https://github.com/Halatnikov/Super-Freaks-1-Fangame)
 
 aka *Scruffy goes to the store to buy bread*, aka *Super Freaks Whenever*
 
 <!-- [![logo](scruffy_ayleen-seraph_small.png)](https://twitter.com/Ayleen_Seraph) -->
 
-![last GitHub commit](https://img.shields.io/github/last-commit/halatnikov/Super-Freaks-1-Fangame?label=last%20GitHub%20commit&logo=github) <sup>(on hold)</sup>
+<sup>(on hold)</sup><br>
+![last GitHub commit](https://img.shields.io/github/last-commit/halatnikov/Super-Freaks-1-Fangame?label=last%20GitHub%20commit&logo=github)
 
 > Plays level files from Super Freaks 1 Ultimate Edition, 1 Remastered and 3 (original) with varying success (requires source code)
 >
-> Check out [Super Freaks 1 Ultimate Edition](https://superfreaks.neocities.org/), *which is a finished free game*
+> Check out [Super Freaks 1 Ultimate Edition](https://superfreaks.neocities.org), *which is a finished free game*
 <!-- > Art by [Ayleen_Seraph](https://twitter.com/Ayleen_Seraph) -->
 
 |**[Source code on GitHub](https://github.com/Halatnikov/Super-Freaks-1-Fangame)**|
+
+---
+
+# [Receive a psychic message!](https://nohbodee.neocities.org)
 
 ---
 
@@ -84,15 +123,16 @@ aka *Scruffy goes to the store to buy bread*, aka *Super Freaks Whenever*
 
 <!-- [![logo](linum_ayleen-seraph_2x.png)](https://gamejolt.com/games/linum-framework/513673) -->
 
-![last GitHub commit](https://img.shields.io/github/last-commit/halatnikov/linum-framework?label=last%20GitHub%20commit&logo=github) <sup>(kinda abandoned, sorry)</sup>
+<sup>(kinda abandoned, sorry)</sup><br>
+![last GitHub commit](https://img.shields.io/github/last-commit/halatnikov/linum-framework?label=last%20GitHub%20commit&logo=github)
 
 ![release last updated](https://img.shields.io/github/release-date/halatnikov/linum-framework?label=last%20updated)
 ![release version](https://img.shields.io/github/v/release/halatnikov/linum-framework?&label=version)
 
 `Main: Windows`
-`Legacy: Windows, Android, Web`
+<br>`Legacy: Windows, Android, Web`
 
-> Sonic framework for Construct 2 with *included level editor and online multiplayer*
+> Sonic framework for [Construct 2](https://www.construct.net/en/construct-2/download) with *included level editor and online multiplayer*
 
 |**[Download and news on Game Jolt](https://gamejolt.com/games/linum-framework/513673)**|
 |---|
