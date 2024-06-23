@@ -39,8 +39,8 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 		<b><a href="https://store.steampowered.com/app/2271120/Danger_Cliff">Danger Cliff</a></b><br>
 		<b><a href="https://x.com/LuaComputaSowwy">Outer Outage</a></b><br>
 		<b><a href="https://store.steampowered.com/search/?term=TECHPACK">TECHPACK</a></b><br>
+		<hr>
 	</details>
-	<hr>
 	<b><a href="https://opensurge2d.org">Surge The Rabbit (Open Surge)</a></b><br>
 	<b><a href="https://github.com/mmatyas/supermariowar">Super Mario War</a></b><br>
 	<b><a href="https://github.com/efroemling/ballistica">BombSquad</a></b><br>
@@ -48,7 +48,6 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 	<b><a href="https://trinitroid.itch.io/mekanikko">Mekanikko</a></b><br>
 	<b><a href="https://github.com/nihil92/Core-Framework">Core Framework</a></b><br>
 	<b><a href="http://gdtr.net">Gravity Defied Classic</a></b><br>
-	<hr>
 	<b><a href="https://github.com/Halatnikov?tab=stars">My GitHub stars</a></b><br>
 </details>
 
