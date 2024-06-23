@@ -1,4 +1,4 @@
-# Halatnikov's... thing <!-- ![icon](holat_ayleen-seraph_2x.png) -->
+# Halatnikov's... thing ![icon](images/icon.png)
 
 > **[GitHub](https://github.com/Halatnikov)** &nbsp;&nbsp; **[GameJolt](https://gamejolt.com/@Halatnikov)**
 <br>**[Twitter](https://twitter.com/holatnikov)** &nbsp;&nbsp; **[Youtube](https://www.youtube.com/channel/UCaJJx5p_9KyaKZj02N82nJw)** &nbsp;&nbsp; **[Steam](https://steamcommunity.com/id/halatnikov)**
@@ -50,6 +50,8 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 	<b><a href="https://github.com/Halatnikov?tab=stars">My GitHub stars</a></b><br>
 </details>
 
+<br>
+
 <details><summary><b>Stream of concioussness</b></summary>
 	<sup>(probably infrequent)</sup><br>
 	
@@ -61,10 +63,10 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 
 # [Sonic Robo-Blast! From The Past](https://gamejolt.com/games/srb_fromthepast/658544)
 
-<!-- [![logo](srbftp_dajumpjump.png)](https://gamejolt.com/games/srb_fromthepast/658544) -->
+[![logo](images/srbftp.png)](https://gamejolt.com/games/srb_fromthepast/658544)
 
 ![last GitHub commit](https://img.shields.io/github/last-commit/halatnikov/SRBftp?label=last%20GitHub%20commit&logo=github)
-
+<br>
 ![release last updated](https://img.shields.io/github/release-date/halatnikov/SRBftp?label=last%20updated)
 ![release version](https://img.shields.io/github/v/release/halatnikov/SRBftp?&label=version)
 
@@ -90,7 +92,7 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 
 aka *Scruffy goes to the store to buy bread*, aka *Super Freaks Whenever*
 
-<!-- [![logo](scruffy_ayleen-seraph_small.png)](https://twitter.com/Ayleen_Seraph) -->
+[![logo](images/scruffy.png)](https://twitter.com/Ayleen_Seraph)
 
 <sup>(on hold)</sup><br>
 ![last GitHub commit](https://img.shields.io/github/last-commit/halatnikov/Super-Freaks-1-Fangame?label=last%20GitHub%20commit&logo=github)
@@ -98,7 +100,7 @@ aka *Scruffy goes to the store to buy bread*, aka *Super Freaks Whenever*
 > Plays level files from Super Freaks 1 Ultimate Edition, 1 Remastered and 3 (original) with varying success (requires source code)
 >
 > Check out [Super Freaks 1 Ultimate Edition](https://superfreaks.neocities.org), *which is a finished free game*
-<!-- > Art by [Ayleen_Seraph](https://twitter.com/Ayleen_Seraph) -->
+> Art by [Ayleen_Seraph](https://twitter.com/Ayleen_Seraph)
 
 |**[Source code on GitHub](https://github.com/Halatnikov/Super-Freaks-1-Fangame)**|
 
@@ -120,11 +122,11 @@ aka *Scruffy goes to the store to buy bread*, aka *Super Freaks Whenever*
 
 # [Linum Framework](https://gamejolt.com/games/linum-framework/513673)
 
-<!-- [![logo](linum_ayleen-seraph_2x.png)](https://gamejolt.com/games/linum-framework/513673) -->
+[![logo](images/linum.png)](https://gamejolt.com/games/linum-framework/513673)
 
 <sup>(kinda abandoned, sorry)</sup><br>
 ![last GitHub commit](https://img.shields.io/github/last-commit/halatnikov/linum-framework?label=last%20GitHub%20commit&logo=github)
-
+<br>
 ![release last updated](https://img.shields.io/github/release-date/halatnikov/linum-framework?label=last%20updated)
 ![release version](https://img.shields.io/github/v/release/halatnikov/linum-framework?&label=version)
 
@@ -140,6 +142,6 @@ aka *Scruffy goes to the store to buy bread*, aka *Super Freaks Whenever*
 
 ---
 
-<!-- [![halat art](happybirthdayhalat_ayleen-seraph_small.png)](https://halatnikov.github.io/art) -->
+<!-- [![halat art](images/art.png)](https://halatnikov.github.io/art) -->
 
 [?](https://www.youtube.com/watch?v=FBSe_3qtgkc)
