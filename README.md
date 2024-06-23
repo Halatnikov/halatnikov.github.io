@@ -16,7 +16,7 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 	<b><a href="https://twitter.com/Ayleen_Seraph">Ayleen_Seraph</a></b><br>
 	<b><a href="https://srb2.org">Sonic Robo Blast 2</a></b><br>
 	<b><a href="https://superfreaks.neocities.org">Super Freaks</a> series</b><br>
-	<details><summary><b>The Freak Mafia</b></summary>
+	<details><summary><b>The Freak Mafia</b></summary><br>
 		<b><a href="https://engineerkappa.itch.io">BUDD and Crystal Heart</a></b><br>
 		<b><a href="https://arrietty.itch.io">Prototype N</a></b><br>
 		(green hair gang!!!!)<br>
@@ -51,7 +51,7 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 
 <br>
 
-<details><summary><b>Stream of concioussness</b></summary>
+<details><summary><b>Stream of concioussness</b></summary><br>
 	<sup>(probably infrequent)</sup><br>
 	
 	<code>2024-06-23</code> the <br>
@@ -141,6 +141,6 @@ aka *Scruffy goes to the store to buy bread*, aka *Super Freaks Whenever*
 
 ---
 
-<!-- [![halat art](images/art.png)](https://halatnikov.github.io/art) -->
+[![halat art](images/art.png)](https://halatnikov.github.io/art)
 
 [?](https://www.youtube.com/watch?v=FBSe_3qtgkc)
