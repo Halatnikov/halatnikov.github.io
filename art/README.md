@@ -2,6 +2,8 @@
 
 # Halat art ![icon](../images/icon.png)
 
+![when the](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhalatnikov.github.io%2Fart&count_bg=%23FFAEC9&title_bg=%2399D9EA&icon=&icon_color=%23E7E7E7&title=%3Aeyes%3A+emoji&edge_flat=false)
+
 Art featuring my OC throughout the years, or otherwise related to what i do
 <br> You can click on everything to view the full versions!
 
