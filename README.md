@@ -14,45 +14,45 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 ---
 
 <details><summary><b>People and things i greatly approve</b></summary>
-	<b><a href="https://twitter.com/Ayleen_Seraph">Ayleen_Seraph</a></b>
-	<b><a href="https://srb2.org">Sonic Robo Blast 2</a></b>
-	<b><a href="https://superfreaks.neocities.org">Super Freaks</a> series</b>
-	<details><summary><h4>The Freak Mafia</h4></summary>
-		<b><a href="https://engineerkappa.itch.io">BUDD and Crystal Heart</a></b>
-		<b><a href="https://arrietty.itch.io">Prototype N</a></b>
+	<b><a href="https://twitter.com/Ayleen_Seraph">Ayleen_Seraph</a></b><br>
+	<b><a href="https://srb2.org">Sonic Robo Blast 2</a></b><br>
+	<b><a href="https://superfreaks.neocities.org">Super Freaks</a> series</b><br>
+	<details><summary><b>The Freak Mafia</b></summary>
+		<b><a href="https://engineerkappa.itch.io">BUDD and Crystal Heart</a></b><br>
+		<b><a href="https://arrietty.itch.io">Prototype N</a></b><br>
 		(green hair gang!!!!)<br>
-		<b><a href="https://superfreaksdev.itch.io/freakjam-1">Freakjam 1</a></b>
+		<b><a href="https://superfreaksdev.itch.io/freakjam-1">Freakjam 1</a></b><br>
 		(i also worked on this!!!!)<br>
-		<b><a href="https://philraco.itch.io/mka-round-the-mind-beta">Round the Mind</a></b>
-		<b><a href="https://almyriganhero.itch.io">Frebbventure and Erma</a></b>
-		<b><a href="https://shootem.biz">Mr. Shootem Breaks Out</a></b>
-		<b><a href="https://null3d.itch.io">The Hit Game Tacti-Cat</a></b>
-		<b><a href="https://pvicvg.com">Ednaldo Pereira: Mobile and Ednaldo Pereira: Mescladasso DX</a></b>
-		<b><a href="https://gamejolt.com/@Miles_Games/games">Slay-Bells and Bub's Big Blowout</a></b>
-		<b><a href="https://sonicfangameshq.com/forums/showcase/turbo-leaper-demo-2-for-christmas-sage.1994">Turbo Leaper</a></b>
-		<b><a href="https://store.steampowered.com/app/1594060/Victory_Heat_Rally">Victory Heat Rally</a></b>
-		<b><a href="https://doricdream.itch.io/dungeon-gals">Dungeon Gals</a></b>
-		<b><a href="https://thatlefthandman.itch.io">Black Cat Blitz and The Pac-Man Brothers</a></b>
-		<b><a href="https://sharb.itch.io/bun-n-gun">Bun n' Gun</a></b>
-		<b><a href="https://lavie-azure.itch.io/code-bunny">Code Bunny</a></b>
-		<b><a href="https://yew-bowman.itch.io">Yew Bowman</a></b>
-		<b><a href="https://store.steampowered.com/app/2271120/Danger_Cliff">Danger Cliff</a></b>
-		<b><a href="https://x.com/LuaComputaSowwy">Outer Outage</a></b>
-		<b><a href="https://store.steampowered.com/search/?term=TECHPACK">TECHPACK</a></b>
+		<b><a href="https://philraco.itch.io/mka-round-the-mind-beta">Round the Mind</a></b><br>
+		<b><a href="https://almyriganhero.itch.io">Frebbventure and Erma</a></b><br>
+		<b><a href="https://shootem.biz">Mr. Shootem Breaks Out</a></b><br>
+		<b><a href="https://null3d.itch.io">The Hit Game Tacti-Cat</a></b><br>
+		<b><a href="https://pvicvg.com">Ednaldo Pereira: Mobile and Ednaldo Pereira: Mescladasso DX</a></b><br>
+		<b><a href="https://gamejolt.com/@Miles_Games/games">Slay-Bells and Bub's Big Blowout</a></b><br>
+		<b><a href="https://sonicfangameshq.com/forums/showcase/turbo-leaper-demo-2-for-christmas-sage.1994">Turbo Leaper</a></b><br>
+		<b><a href="https://store.steampowered.com/app/1594060/Victory_Heat_Rally">Victory Heat Rally</a></b><br>
+		<b><a href="https://doricdream.itch.io/dungeon-gals">Dungeon Gals</a></b><br>
+		<b><a href="https://thatlefthandman.itch.io">Black Cat Blitz and The Pac-Man Brothers</a></b><br>
+		<b><a href="https://sharb.itch.io/bun-n-gun">Bun n' Gun</a></b><br>
+		<b><a href="https://lavie-azure.itch.io/code-bunny">Code Bunny</a></b><br>
+		<b><a href="https://yew-bowman.itch.io">Yew Bowman</a></b><br>
+		<b><a href="https://store.steampowered.com/app/2271120/Danger_Cliff">Danger Cliff</a></b><br>
+		<b><a href="https://x.com/LuaComputaSowwy">Outer Outage</a></b><br>
+		<b><a href="https://store.steampowered.com/search/?term=TECHPACK">TECHPACK</a></b><br>
 	</details>
 	<hr>
-	<b><a href="https://opensurge2d.org">Surge The Rabbit (Open Surge)</a></b>
-	<b><a href="https://github.com/mmatyas/supermariowar">Super Mario War</a></b>
-	<b><a href="https://github.com/efroemling/ballistica">BombSquad</a></b>
-	<b><a href="https://gamejolt.com/games/aurascope/501907">Aurascope</a></b>
-	<b><a href="https://trinitroid.itch.io/mekanikko">Mekanikko</a></b>
-	<b><a href="https://github.com/nihil92/Core-Framework">Core Framework</a></b>
-	<b><a href="http://gdtr.net">Gravity Defied Classic</a></b>
+	<b><a href="https://opensurge2d.org">Surge The Rabbit (Open Surge)</a></b><br>
+	<b><a href="https://github.com/mmatyas/supermariowar">Super Mario War</a></b><br>
+	<b><a href="https://github.com/efroemling/ballistica">BombSquad</a></b><br>
+	<b><a href="https://gamejolt.com/games/aurascope/501907">Aurascope</a></b><br>
+	<b><a href="https://trinitroid.itch.io/mekanikko">Mekanikko</a></b><br>
+	<b><a href="https://github.com/nihil92/Core-Framework">Core Framework</a></b><br>
+	<b><a href="http://gdtr.net">Gravity Defied Classic</a></b><br>
 	<hr>
-	<b><a href="https://github.com/Halatnikov?tab=stars">My GitHub stars</a></b>
+	<b><a href="https://github.com/Halatnikov?tab=stars">My GitHub stars</a></b><br>
 </details>
 
-<details><h2><summary>Stream of concioussness</summary></h2>
+<details><summary><b>Stream of concioussness</b></summary>
 	<sup>(probably infrequent)</sup><br>
 	
 	<code>2024-06-23</code> the <br>
