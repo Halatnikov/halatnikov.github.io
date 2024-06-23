@@ -1,4 +1,4 @@
-[**<<< Back to main page**](https://halatnikov.github.io)
+[**\<\<\< Back to main page**](https://halatnikov.github.io)
 
 # Halat art ![icon](../images/icon.png)
 
