@@ -55,7 +55,7 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 	<sup>(probably infrequent)</sup><br>
 	
 	<code>2024-06-23</code> the <br>
-	<code>2024-06-22</code> haven't repaired the gone images yet, but slightly reworded the whole site <br>
+	<code>2024-06-22</code> <s>haven't repaired the gone images yet</s> (update: did), but slightly reworded the whole site <br>
 </details>
 
 ---
