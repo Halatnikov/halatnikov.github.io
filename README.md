@@ -5,18 +5,25 @@
 <br>**Discord**: `halatnikov`
 
 [![website updated](https://img.shields.io/github/last-commit/halatnikov/halatnikov.github.io?label=updated)](https://github.com/Halatnikov/halatnikov.github.io)
-<br>`he/they` ![my current time](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FNovosibirsk&query=%24.time&label=my%20current%20time&color=40AF60)
+![page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhalatnikov.github.io&count_bg=%231384C5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=page+hits&edge_flat=false)
+
+`he/they`
+![my current time](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FNovosibirsk&query=%24.time&label=my%20current%20time&color=40AF60)
 
 i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construct.net/en/construct-2/download) and also learning [LÖVE](https://love2d.org/)
 <br><sub>hello</sub>
 
 ---
 
-<details><summary><b>People and things i greatly approve</b></summary>
+<details>
+	<summary><b>People and things i greatly approve</b></summary>
+	
 	<b><a href="https://twitter.com/Ayleen_Seraph">Ayleen_Seraph</a></b><br>
 	<b><a href="https://srb2.org">Sonic Robo Blast 2</a></b><br>
 	<b><a href="https://superfreaks.neocities.org">Super Freaks</a> series</b><br>
-	<details><summary><b>The Freak Mafia</b></summary><br>
+	<details>
+		<summary><b>The Freak Mafia</b></summary>
+		
 		<b><a href="https://engineerkappa.itch.io">BUDD and Crystal Heart</a></b><br>
 		<b><a href="https://arrietty.itch.io">Prototype N</a></b><br>
 		(green hair gang!!!!)<br>
@@ -50,8 +57,9 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 </details>
 
 <br>
-
-<details><summary><b>Stream of concioussness</b></summary><br>
+<details>
+	<summary><b>Stream of concioussness</b></summary>
+	
 	<sup>(probably infrequent)</sup><br>
 	
 	<code>2024-06-23</code> the <br>
