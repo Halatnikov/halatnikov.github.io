@@ -17,7 +17,7 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 	<b><a href="https://twitter.com/Ayleen_Seraph">Ayleen_Seraph</a></b>
 	<b><a href="https://srb2.org">Sonic Robo Blast 2</a></b>
 	<b><a href="https://superfreaks.neocities.org">Super Freaks</a> series</b>
-	<details><h4><summary>The Freak Mafia</h4></b>
+	<details><summary><h4>The Freak Mafia</h4></summary>
 		<b><a href="https://engineerkappa.itch.io">BUDD and Crystal Heart</a></b>
 		<b><a href="https://arrietty.itch.io">Prototype N</a></b>
 		(green hair gang!!!!)<br>
