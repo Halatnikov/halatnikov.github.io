@@ -5,8 +5,7 @@
 <br>**Discord**: `halatnikov`
 
 [![website updated](https://img.shields.io/github/last-commit/halatnikov/halatnikov.github.io?label=updated)](https://github.com/Halatnikov/halatnikov.github.io)
-
-`he/they` ![my current time](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FNovosibirsk&query=%24.time&label=my%20current%20time&color=40AF60)
+<br>`he/they` ![my current time](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FNovosibirsk&query=%24.time&label=my%20current%20time&color=40AF60)
 
 i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construct.net/en/construct-2/download) and also learning [LÖVE](https://love2d.org/)
 <br><sub>hello</sub>
@@ -88,6 +87,10 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 
 ---
 
+# [Receive a psychic message!](https://nohbodee.neocities.org)
+
+---
+
 # [Super Freaks 1 Fangame](https://github.com/Halatnikov/Super-Freaks-1-Fangame)
 
 aka *Scruffy goes to the store to buy bread*, aka *Super Freaks Whenever*
@@ -103,10 +106,6 @@ aka *Scruffy goes to the store to buy bread*, aka *Super Freaks Whenever*
 > Art by [Ayleen_Seraph](https://twitter.com/Ayleen_Seraph)
 
 |**[Source code on GitHub](https://github.com/Halatnikov/Super-Freaks-1-Fangame)**|
-
----
-
-# [Receive a psychic message!](https://nohbodee.neocities.org)
 
 ---
 
