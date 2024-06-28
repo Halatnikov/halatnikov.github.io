@@ -41,7 +41,6 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 		<b><a href="https://thatlefthandman.itch.io">Black Cat Blitz and The Pac-Man Brothers</a></b><br>
 		<b><a href="https://sharb.itch.io/bun-n-gun">Bun n' Gun</a></b><br>
 		<b><a href="https://lavie-azure.itch.io/code-bunny">Code Bunny</a></b><br>
-		<b><a href="https://yew-bowman.itch.io">The Bowyage</a></b><br>
 		<b><a href="https://store.steampowered.com/app/2271120/Danger_Cliff">Danger Cliff</a></b><br>
 		<b><a href="https://x.com/LuaComputaSowwy">Outer Outage</a></b><br>
 		<b><a href="https://store.steampowered.com/search/?term=TECHPACK">TECHPACK</a></b><br>

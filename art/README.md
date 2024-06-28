@@ -7,7 +7,7 @@
 Art featuring my OC throughout the years, or otherwise related to what i do
 <br> You can click on everything to view the full versions!
 
-### Unless specified, everything here is done by [Ayleen_Seraph](https://twitter.com/Ayleen_Seraph/)
+**Unless specified, everything here is done by [Ayleen_Seraph](https://twitter.com/Ayleen_Seraph/)**
 
 ---
 
