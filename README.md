@@ -61,6 +61,7 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 	
 	<sup>(probably infrequent)</sup><br>
 	
+	<code>2024-09-13</code> does github consider this not enough of an update to re-deploy the page???<br>
 	<code>2024-06-23</code> the<br>
 	<code>2024-06-22</code> <s>haven't repaired the gone images yet</s> (update: did), but slightly reworded the whole site<br>
 </details>
