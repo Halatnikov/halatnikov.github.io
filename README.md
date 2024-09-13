@@ -1,7 +1,8 @@
 # Halatnikov's... thing ![icon](images/icon.png)
 
 > **[GitHub](https://github.com/Halatnikov)** &nbsp;&nbsp; **[GameJolt](https://gamejolt.com/@Halatnikov)**
-<br>**[Twitter](https://twitter.com/holatnikov)** &nbsp;&nbsp; **[Youtube](https://www.youtube.com/channel/UCaJJx5p_9KyaKZj02N82nJw)** &nbsp;&nbsp; **[Steam](https://steamcommunity.com/id/halatnikov)**
+<br>**[Twitter](https://twitter.com/holatnikov)** &nbsp;&nbsp; **[Bluesky](https://bsky.app/profile/halatnikov.bsky.social)** 
+<br>**[Youtube](https://www.youtube.com/channel/UCaJJx5p_9KyaKZj02N82nJw)** &nbsp;&nbsp; **[Steam](https://steamcommunity.com/id/halatnikov)**
 <br>**Discord**: `halatnikov`
 
 [![website updated](https://img.shields.io/github/last-commit/halatnikov/halatnikov.github.io?label=updated)](https://github.com/Halatnikov/halatnikov.github.io)
@@ -61,7 +62,7 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 	
 	<sup>(probably infrequent)</sup><br>
 	
-	<code>2024-09-13</code> somehow deployment to github pages broke???<br>
+	<code>2024-09-13</code> somehow deployment to github pages broke??? also i'm in the mood to try out this bluesky thing, why not<br>
 	<code>2024-06-23</code> the<br>
 	<code>2024-06-22</code> <s>haven't repaired the gone images yet</s> (update: did), but slightly reworded the whole site<br>
 </details>
