@@ -1,7 +1,7 @@
 # Halatnikov's... thing ![icon](images/icon.png)
 
 > **[GitHub](https://github.com/Halatnikov)** &nbsp;&nbsp; **[GameJolt](https://gamejolt.com/@Halatnikov)**
-<br>**[Twitter](https://twitter.com/holatnikov)** &nbsp;&nbsp; **[Bluesky](https://bsky.app/profile/halatnikov.bsky.social)** 
+<br>**[Bluesky](https://halatnikov.bsky.social)** &nbsp;&nbsp; **[Twitter](https://twitter.com/holatnikov)** 
 <br>**[Youtube](https://www.youtube.com/channel/UCaJJx5p_9KyaKZj02N82nJw)** &nbsp;&nbsp; **[Steam](https://steamcommunity.com/id/halatnikov)**
 <br>**Discord**: `halatnikov`
 
@@ -35,7 +35,7 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 		<b><a href="https://shootem.biz">Mr. Shootem Breaks Out</a></b><br>
 		<b><a href="https://null3d.itch.io">The Hit Game Tacti-Cat</a></b><br>
 		<b><a href="https://pvicvg.com">Ednaldo Pereira: Mobile and Ednaldo Pereira: Mescladasso DX</a></b><br>
-		<b><a href="https://gamejolt.com/@Miles_Games/games">Slay-Bells and Bub's Big Blowout</a></b><br>
+		<b><a href="https://gamejolt.com/@Miles_Games/games">Team Slay-Bells and Bub's Big Blowout</a></b><br>
 		<b><a href="https://sonicfangameshq.com/forums/showcase/turbo-leaper-demo-2-for-christmas-sage.1994">Turbo Leaper</a></b><br>
 		<b><a href="https://store.steampowered.com/app/1594060/Victory_Heat_Rally">Victory Heat Rally</a></b><br>
 		<b><a href="https://doricdream.itch.io/dungeon-gals">Dungeon Gals</a></b><br>
@@ -43,8 +43,14 @@ i mostly <sup>(try to)</sup> do bideo game in [Construct 2](https://www.construc
 		<b><a href="https://sharb.itch.io/bun-n-gun">Bun n' Gun</a></b><br>
 		<b><a href="https://lavie-azure.itch.io/code-bunny">Code Bunny</a></b><br>
 		<b><a href="https://store.steampowered.com/app/2271120/Danger_Cliff">Danger Cliff</a></b><br>
-		<b><a href="https://x.com/LuaComputaSowwy">Outer Outage</a></b><br>
+		<b><a href="https://lua-computa.neocities.org/games">Outer Outage and Rave Rough</a></b><br>
 		<b><a href="https://store.steampowered.com/search/?term=TECHPACK">TECHPACK</a></b><br>
+		<b><a href="https://store.steampowered.com/app/1686780/Witchfall_Secrets_of_Emotica/">Witchfall: Secrets of Emotica</a></b><br>
+		<b><a href="https://twinklesoftware.itch.io/robogal">RoboGAL</a></b><br>
+		<b><a href="https://gamejolt.com/games/Fuu3/563119">Fuu3´s fuun journey</a></b><br>
+		<b><a href="https://pulstar-2.itch.io/">Man Human Person Thingy</a></b><br>
+		<b><a href="https://sonicfangameshq.com/forums/showcase/super-nova-sage-2024-demo.2206/">SUPER NOVA</a></b><br>
+		<br>
 	</details>
 	<b><a href="https://opensurge2d.org">Surge The Rabbit (Open Surge)</a></b><br>
 	<b><a href="https://github.com/mmatyas/supermariowar">Super Mario War</a></b><br>

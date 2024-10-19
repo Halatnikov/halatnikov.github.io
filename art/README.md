@@ -20,19 +20,19 @@ Art featuring my OC throughout the years, or otherwise related to what i do
 
 # 2022
 
-[![](twitter/twitter_20221219.png)](https://twitter.com/Ayleen_Seraph/status/1604856173630570501?s=20)
-[![](twitter/twitter_20221005.png)](https://twitter.com/Ayleen_Seraph/status/1577683561632628736?s=20)
-[![](twitter/twitter_20220910.png)](https://twitter.com/Ayleen_Seraph/status/1568446191842516993?s=20)
+[![](twitter/twitter_20221219.png)](https://twitter.com/Ayleen_Seraph/status/1604856173630570501)
+[![](twitter/twitter_20221005.png)](https://twitter.com/Ayleen_Seraph/status/1577683561632628736)
+[![](twitter/twitter_20220910.png)](https://twitter.com/Ayleen_Seraph/status/1568446191842516993)
 [![](thumb/20220902.png)](full/20220902.png)
 [![](thumb/20220800.png)](full/20220800.png)
-[![](twitter/twitter_20220513.png)](https://twitter.com/Ayleen_Seraph/status/1524797124482940929?s=20)
+[![](twitter/twitter_20220513.png)](https://twitter.com/Ayleen_Seraph/status/1524797124482940929)
 [![](thumb/20220214.png)](full/20220214.png)
 
 ---
 
 # 2021
 
-[![](twitter/twitter_20211219.png)](https://twitter.com/Ayleen_Seraph/status/1472629474021806089?s=20)
+[![](twitter/twitter_20211219.png)](https://twitter.com/Ayleen_Seraph/status/1472629474021806089)
 [![](thumb/20210505.png)](full/20210505.png)
 [![](twitter/twitter_20210430.png)](https://twitter.com/Ayleen_Seraph/status/1387897757403385856)
 [![](thumb/20210326.png)](full/20210326.png)
@@ -42,7 +42,7 @@ Art featuring my OC throughout the years, or otherwise related to what i do
 
 # 2020
 
-[![](twitter/twitter_20201219.png)](https://twitter.com/Ayleen_Seraph/status/1340311049141161987?s=20)
+[![](twitter/twitter_20201219.png)](https://twitter.com/Ayleen_Seraph/status/1340311049141161987)
 [![](twitter/twitter_20201201.png)](https://twitter.com/Ayleen_Seraph/status/1333465598135775235)
 [![](twitter/twitter_20201105.png)](https://twitter.com/Ayleen_Seraph/status/1324122622641266695)
 [![](thumb/20200901.png)](full/20200901.png)
@@ -144,7 +144,7 @@ Art featuring my OC throughout the years, or otherwise related to what i do
 <br> by [stas's ports](https://gamejolt.com/@stas_ports)
 
 [![](thumb/others_kappa.png)](full/others_kappa.png)
-<br> by [EngineerKappa](https://engineerkappa.neocities.org/)
+<br> by [EngineerKappa](https://engineerkappa.net/)
 
 ---
 
